@@ -18,6 +18,23 @@ gestionar portafolios, proyectos, tareas, recursos, presupuestos y prioridades.
 | [ms-analitico](../../../ms-analitico) | Osomar1705 | S3 + Athena | data lake, KPIs del portafolio |
 | [web-ppm](../../../web-ppm) | alxgr-08 | — | Next.js en Amplify |
 
+## Entregables además del código
+
+| Pieza | Quién |
+|---|---|
+| **Arquitectura de Solución** (2 pts) y todo lo relacionado | carloscondor1610 |
+| Armado del informe Word/PDF | Brisseth-raton |
+| PPT del resumen | alxgr-08 + fabianbot1331 |
+| Guion y ensayo de la demo con 2 tenants | sebastianperez72 |
+| Despliegue en AWS y coordinación | Osomar1705 |
+
+## Desplegar
+
+Guía paso a paso en
+[infra-compartida/DESPLIEGUE.md](../../../infra-compartida/blob/main/DESPLIEGUE.md).
+Para verificar todo el sistema de punta a punta:
+`infra-compartida/verificar-sistema.sh`.
+
 ## Documentación
 
 Vive en [infra-compartida/docs](../../../infra-compartida/tree/main/docs):
